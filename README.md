@@ -3,16 +3,22 @@
 Podcast "Manual Essencial de Python3"
 
 ## 📒 Descrição
+
 Este projeto é um PODCAST, feito no NotebookLM, Nome do Podcast "Manual Essencial de Python3", baseado no livro "The Quick Python Book"
 
 ## 🤖 Tecnologias Utilizadas
+
  Usei o NotebookLM (para o podcast etc) e o Gemini (para o conteúdo)
  - NotebookLM é uma ferramenta do Google AI que te ajuda a entender e trabalhar com grandes quantidades de informação, como documentos e anotações, permitindo resumir, fazer perguntas e organizar o conteúdo de forma mais eficiente.
 
 ## 🧐 Processo de Criação
-Parti do pdf do livro "The Quick Python Book", versão em inglês, enviei para o NotebookLM e ele gerou o podcast e resumos.
+
+- Parti do pdf do livro "The Quick Python Book", versão em inglês, enviei para o NotebookLM e ele gerou o podcast e resumos.
 
 ## 🚀 Resultados
+
+- [Link do Podcast "Manual Essencial de Python3" sobre o livro "The Quick Python Book"](https://notebooklm.google.com/notebook/cb37e0f3-d086-43b1-a6f6-4d59895281cd/audio)
+
 O NotebookLM permite criar um audio, baseado no texto, pdf, utilizado, o diálogo é original e pode ser em qualquer idioma, inclusive com sutaque regional, no áudio parece ser a maneira de se falar no Rio de Janeiro.
 
 Abaixo, compartilho o resumo, também criado no NotebookLM:
@@ -50,13 +56,13 @@ Sugestões de Roteiro de Aprendizado:
 Em resumo, a estrutura do livro é flexível e abrangente: começa com uma visão geral e os fundamentos para iniciantes, avança para recursos mais sofisticados e culmina em aplicações práticas e tópicos especializados, permitindo que cada leitor personalize sua jornada de aprendizado de acordo com seu nível de experiência e interesses.
 
 ## 💭 Reflexão (Opcional)
-Foi muito interessante a facilidade de se conseguir um diálogo, totalmente focado no livro que estou estudando e criado pela IA.
+
+- Foi muito interessante a facilidade de se conseguir um diálogo, totalmente focado no livro que estou estudando e criado pela IA.
 
 ### Exemplos e Insigths
 
 - ![Print do NotebookLM](image.png)
-- [Podcast](Manual Essencial de Python 3.wav)
 
 ## Links Interessantes
 
-[Link do Podcast "Manual Essencial de Python3" sobre o livro "The Quick Python Book"](https://notebooklm.google.com/notebook/cb37e0f3-d086-43b1-a6f6-4d59895281cd/audio)
+- [Link do Podcast "Manual Essencial de Python3" sobre o livro "The Quick Python Book"](https://notebooklm.google.com/notebook/cb37e0f3-d086-43b1-a6f6-4d59895281cd/audio)
